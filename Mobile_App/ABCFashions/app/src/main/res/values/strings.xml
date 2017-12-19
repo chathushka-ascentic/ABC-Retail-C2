@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ABC Fashions</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_promotion_actvity">PromotionActvity</string>
+    <string name="title_activity_item">ItemActivity</string>
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_signup">SignupActivity</string>
+    <string name="title_activity_check_out">CheckOutActivity</string>
+</resources>
