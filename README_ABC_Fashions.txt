@@ -6,7 +6,7 @@ ABC Fashions Mobile App and Web App -->
 
 * Here I included
 
-1) Web App
+1) Web App([Web portal for customers & Web application to mark geo fence for branches] These app codes included in same folder(geo_rajitha). )
 2)Mobile App
 3)Mysql Database
 4)QR Code for testing purpose
